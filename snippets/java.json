@@ -157,7 +157,7 @@
     "prefix": "import",
     "body": ["import ${1:PackageName}"],
     "description": "Import statement"
-  }
+  },
   "log": {
     "prefix": "log",
     "body": ["private static final Logger LOG = LoggerFactory.getLogger(${1:className}.class);"],
